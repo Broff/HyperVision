@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d091a4f3412d8e14a954445ca8c855b1
+timeCreated: 1494422621
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buttonClick: {instanceID: 0}
+  - gameOver: {fileID: 8300000, guid: 10f80262ba9dd7f4a991a53e16f4502a, type: 3}
+  - buySkin: {fileID: 8300000, guid: d9bc88685bf9d164d8e0bf18864271ed, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
